@@ -1,7 +1,7 @@
  # MAZE RACE
 ### ALX Final Project
 A 3d maze game made with C programming language using SDL 2.1 library and raycasting concept.
-![textured_1](https://github.com/JohnIdyu/maze/blob/master/screenshots/textured_1.png)
+![textured_1](https://github.com/hicarrie/maze/blob/master/screenshots/textured_1.png)
 -----
 
 ### How to Compile and Run
