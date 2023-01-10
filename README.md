@@ -11,7 +11,7 @@ A 3d maze game made with C programming language using SDL 2.1 library and raycas
 - Run the maze: `./maze` or `./maze maps/<map_name>`
 - Disable textures: `./maze no_tex` or `./maze maps/<map_name> no_tex`
 
-![textured_3](https://github.com/JohnIdyu-github/maze-race/blob/master/screenshots/textured_4.png)
+![textured_3](https://github.com/JohnIdyu/maze-race/blob/master/screenshots/textured_4.png)
 -----
 
 #### Controls
