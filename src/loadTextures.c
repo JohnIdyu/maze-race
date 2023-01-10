@@ -1,4 +1,4 @@
-#include "maze.h"
+include "maze.h"
 
 /**
  * loadTextures - loads textures from file and puts pixel information in buffer
