@@ -1,4 +1,4 @@
-include "maze.h"
+#include "maze.h"
 
 /**
  * freeMap - frees 2D array containing map information
