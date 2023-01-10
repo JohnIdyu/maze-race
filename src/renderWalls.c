@@ -1,4 +1,4 @@
-include "maze.h"
+#include "maze.h"
 
 /**
  * renderWalls - casts rays and renders walls
