@@ -1,4 +1,4 @@
- Specify compiler
+# Specify compiler
 CC = gcc
 
 # Source files
