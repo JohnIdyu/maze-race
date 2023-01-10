@@ -1,4 +1,4 @@
-include "maze.h"
+#include "maze.h"
 
 /**
  * renderBG - draws ceiling and floor
